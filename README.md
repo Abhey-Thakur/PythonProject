@@ -1,0 +1,1 @@
+This report analyzes data from the IPL 2024 Match Dataset, focusing on Comparing runs distribution (0-6) per team via histogram, Identifying top scorers and wicket-takers with bar/pie charts, Track run rate progression and dismissal types for momentum shifts. Visualizing over-by-over scoring trends via heatmap for match dynamics..
